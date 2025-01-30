@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Silly pigs!!!",
+    "pack_format": 46,
+	"supported_formats": {"min_inclusive": 46, "max_inclusive": 1000}
+  }
+}
